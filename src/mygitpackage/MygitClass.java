@@ -1,0 +1,10 @@
+package mygitpackage;
+
+public class MygitClass {
+
+	public static void main(String[] args) {
+
+		System.out.println("Version 1");
+	}
+
+}
