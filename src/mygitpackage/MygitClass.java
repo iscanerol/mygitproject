@@ -8,6 +8,8 @@ public class MygitClass {
 		System.out.println("my second committt");
 		System.out.println("my thirth committttt");
 		System.out.println("bu sefer ol");
+		System.out.println("oldun bir dahaa");
+		System.out.println("my 4 th commit");
 	}
 
 }
