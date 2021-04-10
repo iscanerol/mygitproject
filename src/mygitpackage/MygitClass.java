@@ -10,6 +10,7 @@ public class MygitClass {
 		System.out.println("bu sefer ol");
 		System.out.println("oldun bir dahaa");
 		System.out.println("my 4 th commit");
+		System.out.println("uzak sunucudaki kodlarim");
 	}
 
 }
