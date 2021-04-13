@@ -11,6 +11,7 @@ public class MygitClass {
 		System.out.println("oldun bir dahaa");
 		System.out.println("my 4 th commit");
 		System.out.println("uzak sunucudaki kodlarim 22");
+		System.out.println("uzak sunucudaki kodlarim 22 ali");
 	}
 
 }
