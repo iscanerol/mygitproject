@@ -26,6 +26,7 @@ public class MygitClass {
 		System.out.println("uzak sunucudaki kodlarim 22 velioo");
 		System.out.println("yeni branch kodum");
 		System.out.println("yeni branch kodum2");
+		System.out.println("yeni branch kodum3");
 
 	}
 
