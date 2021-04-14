@@ -7,6 +7,8 @@ public class MyGitClass2 {
 		System.out.println("yeni branch kodum");
 		System.out.println("yeni branch kodum2");
 		System.out.println("yeni branch kodum3");
+		System.out.println("yeni branch kodum2");
+		System.out.println("yeni branch kodum3");
 	}
 
 }
